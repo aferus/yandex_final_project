@@ -6,6 +6,7 @@
 	GROUP BY c.id, c.login 
 	ORDER BY c.login;
 
+
 2.SELECT 
     track,  
     CASE
